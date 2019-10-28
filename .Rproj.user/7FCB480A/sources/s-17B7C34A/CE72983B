@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572136822373.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "682855034",
+    "id" : "CE72983B",
+    "lastKnownWriteTime" : 1572161366,
+    "last_content_update" : 1572161366563,
+    "path" : "~/GitHub/peace-in-latin-america/src/eda.R",
+    "project_path" : "src/eda.R",
+    "properties" : {
+        "cursorPosition" : "7,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

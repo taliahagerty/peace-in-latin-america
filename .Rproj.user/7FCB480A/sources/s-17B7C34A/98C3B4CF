@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572138565135.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3961602438",
+    "id" : "98C3B4CF",
+    "lastKnownWriteTime" : 1572161586,
+    "last_content_update" : 1572161586838,
+    "path" : "~/GitHub/peace-in-latin-america/lib/simple change.R",
+    "project_path" : "lib/simple change.R",
+    "properties" : {
+        "cursorPosition" : "16,43",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

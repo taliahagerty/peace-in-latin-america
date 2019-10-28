@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572161467489.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5034D0B4",
+    "lastKnownWriteTime" : 7814711143226949232,
+    "last_content_update" : 1572161467489,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9E507485",
+        "caption" : "region.chng",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=region.chng&cache_key=9E507485",
+        "displayedObservations" : 29,
+        "environment" : "",
+        "expression" : "region.chng",
+        "object" : "region.chng",
+        "preview" : 0,
+        "totalObservations" : 29,
+        "variables" : 6
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

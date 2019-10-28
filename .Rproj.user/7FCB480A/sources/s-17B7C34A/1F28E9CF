@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572136941740.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1F28E9CF",
+    "lastKnownWriteTime" : 1572161457,
+    "last_content_update" : 1572161457481,
+    "path" : "~/GitHub/peace-in-latin-america/src/gpi results lat am.R",
+    "project_path" : "src/gpi results lat am.R",
+    "properties" : {
+        "cursorPosition" : "22,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
